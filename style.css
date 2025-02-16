@@ -19,12 +19,13 @@ body {
     background-color: var(--Yellow);
 }
 .container {
-    width: 350px;
-    margin: 5rem auto;
+    width: 380px;
+    margin: 6rem auto;
     padding: 1rem;
     background-color: var(--White);
     border-radius: 1rem;
     border: 1px solid black;
+    box-shadow: 8px 8px black;
 }
 .f-img {
     width: 100%;
@@ -46,6 +47,7 @@ h1 {
     font-weight: 800;
     margin: 1rem 0;
     cursor: pointer;
+    font-size: 25px;
 }
 h1:hover {
     color: var(--Yellow);
