@@ -62,10 +62,3 @@ h1:hover {
 span {
     font-weight: 800;
 }
-@media (max-width:767px) {
-    .container {
-        /* width: 250px; */
-        /* margin: 8rem auto ; */
-        overflow-x: hidden;
-    }
-}
